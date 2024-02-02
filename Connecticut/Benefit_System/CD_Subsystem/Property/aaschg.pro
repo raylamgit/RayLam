@@ -2,7 +2,7 @@
      "AASCHG": {                                                                
       "ENVIRONMENT"   :  "BCBS01",                                              
       "SYSYTEM"       :  "AAS",                                                 
-      "SUSSYSTEM"     :  "AAS",                                                 
+      "SUBSYSTEM"     :  "AAS",                                                 
          "BINDCNTL": {                                                          
           "PROC_GRP"  :  "BNDCTLO",                                             
           "PROC_NAME" :  "MBNDCTL",                                             

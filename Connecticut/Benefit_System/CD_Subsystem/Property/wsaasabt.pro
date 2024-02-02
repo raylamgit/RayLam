@@ -2,7 +2,7 @@
      "WSAASABT": {                                                              
       "ENVIRONMENT"   :  "BCBS01",                                              
       "SYSYTEM"       :  "AAS",                                                 
-      "SUSSYSTEM"     :  "AAS",                                                 
+      "SUBSYSTEM"     :  "AAS",                                                 
          "FILEDESC": {                                                          
           "PROC_GRP"  :  "*NOPROC*",                                            
           "PROC_NAME" :  "BASICGEN",                                            

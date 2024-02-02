@@ -2,7 +2,7 @@
      "AASMNUM": {                                                               
       "ENVIRONMENT"   :  "BCBS01",                                              
       "SYSYTEM"       :  "AAS",                                                 
-      "SUSSYSTEM"     :  "AAS",                                                 
+      "SUBSYSTEM"     :  "AAS",                                                 
          "BMSMAP": {                                                            
           "PROC_GRP"  :  "BMSNNL",                                              
           "PROC_NAME" :  "MBMSNNL",                                             

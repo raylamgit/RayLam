@@ -2,7 +2,7 @@
      "DXP8000P": {                                                              
       "ENVIRONMENT"   :  "BCBS01",                                              
       "SYSYTEM"       :  "AAS",                                                 
-      "SUSSYSTEM"     :  "AAS",                                                 
+      "SUBSYSTEM"     :  "AAS",                                                 
          "COBOL": {                                                             
           "PROC_GRP"  :  "CIIDNLA",                                             
           "PROC_NAME" :  "GCIIDNLA",                                            

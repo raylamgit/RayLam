@@ -2,7 +2,7 @@
      "AASMNU": {                                                                
       "ENVIRONMENT"   :  "BCBS01",                                              
       "SYSYTEM"       :  "AAS",                                                 
-      "SUSSYSTEM"     :  "AAS",                                                 
+      "SUBSYSTEM"     :  "AAS",                                                 
          "COBOL": {                                                             
           "PROC_GRP"  :  "C39CNL",                                              
           "PROC_NAME" :  "MCOBCNL",                                             
