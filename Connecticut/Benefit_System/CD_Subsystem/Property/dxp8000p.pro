@@ -5,15 +5,15 @@
       "SUBSYSTEM"     :  "AAS",                                                 
          "COBOL": {                                                             
           "PROC_GRP"  :  "CIIDNLA",                                             
-          "PROC_NAME" :  "GCIIDNLA",                                            
+          "PROC_NAME" :  "GCIIDNLA"                                             
                   },                                                            
          "LINKOPT": {                                                           
           "PROC_GRP"  :  "LINKOPT",                                             
-          "PROC_NAME" :  "*NOPROC*",                                            
+          "PROC_NAME" :  "*NOPROC*"                                             
                   },                                                            
          "BINDCNTL": {                                                          
           "PROC_GRP"  :  "BNDCTL",                                              
-          "PROC_NAME" :  "GBNDCTL",                                             
+          "PROC_NAME" :  "GBNDCTL"                                              
                   },                                                            
    }                                                                            
 }                                                                               

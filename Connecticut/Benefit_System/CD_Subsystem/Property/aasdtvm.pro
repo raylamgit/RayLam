@@ -5,7 +5,7 @@
       "SUBSYSTEM"     :  "AAS",                                                 
          "BMSMAP": {                                                            
           "PROC_GRP"  :  "BMSNNL",                                              
-          "PROC_NAME" :  "MBMSNNL",                                             
+          "PROC_NAME" :  "MBMSNNL"                                              
                   },                                                            
    }                                                                            
 }                                                                               
