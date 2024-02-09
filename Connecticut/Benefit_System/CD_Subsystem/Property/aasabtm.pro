@@ -1,11 +1,12 @@
 {                                                                               
      "AASABTM": {                                                               
       "ENVIRONMENT"   :  "BCBS01",                                              
-      "SYSYTEM"       :  "AAS",                                                 
+      "SYSTEM"        :  "AAS",                                                 
       "SUBSYSTEM"     :  "AAS",                                                 
          "BMSMAP": {                                                            
           "PROC_GRP"  :  "BMSNNL",                                              
-          "PROC_NAME" :  "MBMSNNL"                                              
+          "PROC_NAME" :  "MBMSNNL",                                             
+          "SYM_OVRD"  :  ""                                                     
                   },                                                            
    }                                                                            
 }                                                                               
